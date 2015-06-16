@@ -3,7 +3,7 @@
 
 #Install Guide:
     sudo python setup.py install
-
+    #Install Sqlite and import line_authtoken.sql
     python lineApp.py
 
 #Route Guide:
